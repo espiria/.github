@@ -11,20 +11,22 @@ _We build software where we think we can make a difference. We build the tools w
 
 Ultra-fast Rust-based git hooks manager.
 
+### [**nutthead-ebnf**](https://github.com/nutthead/nutthead-ebnf.typ)
+[![Samoyed's Stars](https://img.shields.io/github/stars/nutthead/nutthead-ebnf.typ)](https://github.com/nutthead/nutthead-ebnf.typ/stargazers)
+
+A Typst package for rendering Extended Backus-Naur Form (EBNF) grammars. Faithful to the ISO 14977 (PDF) standard, albeit with a few judicious departures where deemed necessary.
+
 ---
 
-**Our Promise:** Software that is a pleasure to use, is lightning-fast, and harmonious.  
-**We Are:** UNIX-first (Linux • BSD* • macOS)  
-**We Support:** UNIX (Linux, BSD*, and macOS) • Windows* • Mobiles and Tablets  
-**Revenue/Sustainability Model:** Community donations • Corporate sponsorships  
-
-\* At the moment, we cannot support BSD and Windows to the extent we want to. But we will get there.
+- **Our Promise:** Software that is a pleasure to use, is lightning-fast, and harmonious.  
+- **We Are:** UNIX-first (Linux • macOS)  
+- **Revenue/Sustainability Model:** Community donations • Corporate sponsorships  
 
 ![Hero Image](assets/hero-2.webp)
 
 ## 🫂 Join Us
 
-- **Contribute 🤝:** [Good first issues](https://github.com/nutthead/samoyed/issues?q=is%3Aissue%20state%3Aopen%20label%3Acommunity%3Agood-first-issue)
+- **Contribute 🤝:** Contributions are welcome and highly appreciated
 - **Sponsor 💕:** [GitHub Sponsors](https://github.com/sponsors/nutthead) • [Patreon](https://patreon.com/__nutthead__)
 
 ## Around the Web
