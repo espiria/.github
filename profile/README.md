@@ -1,4 +1,4 @@
-# Nutthead Studios
+# Espiria Studios
 
 **Blazing-fast software with exceptional user experience.**
 
@@ -6,13 +6,13 @@ _We build software where we think we can make a difference. We build the tools w
 
 ## Currently shipping:
 
-### [**samoyed**](https://github.com/nutthead/samoyed)  
-[![Samoyed's Stars](https://img.shields.io/github/stars/nutthead/samoyed)](https://github.com/nutthead/samoyed/stargazers)
+### [**samoyed**](https://github.com/espiria/samoyed)  
+[![Samoyed's Stars](https://img.shields.io/github/stars/espiria/samoyed)](https://github.com/espiria/samoyed/stargazers)
 
 Ultra-fast Rust-based git hooks manager.
 
-### [**nutthead-ebnf**](https://github.com/nutthead/nutthead-ebnf.typ)
-[![Samoyed's Stars](https://img.shields.io/github/stars/nutthead/nutthead-ebnf.typ)](https://github.com/nutthead/nutthead-ebnf.typ/stargazers)
+### [**espiria-ebnf**](https://github.com/espiria/espiria-ebnf.typ)
+[![Samoyed's Stars](https://img.shields.io/github/stars/espiria/espiria-ebnf.typ)](https://github.com/espiria/espiria-ebnf.typ/stargazers)
 
 A Typst package for rendering Extended Backus-Naur Form (EBNF) grammars. Faithful to the ISO 14977 (PDF) standard, albeit with a few judicious departures where deemed necessary.
 
@@ -23,11 +23,6 @@ A Typst package for rendering Extended Backus-Naur Form (EBNF) grammars. Faithfu
 - **Revenue/Sustainability Model:** Community donations • Corporate sponsorships  
 
 ![Hero Image](assets/hero-2.webp)
-
-## 🫂 Join Us
-
-- **Contribute 🤝:** Contributions are welcome and highly appreciated
-- **Sponsor 💕:** [GitHub Sponsors](https://github.com/sponsors/nutthead) • [Patreon](https://patreon.com/__nutthead__)
 
 ## Around the Web
 
