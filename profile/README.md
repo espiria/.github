@@ -12,7 +12,7 @@ _We build software where we think we can make a difference. We build the tools w
 Ultra-fast Rust-based git hooks manager.
 
 ### [**espiria-ebnf**](https://github.com/espiria/espiria-ebnf.typ)
-[![Samoyed's Stars](https://img.shields.io/github/stars/espiria/espiria-ebnf.typ)](https://github.com/espiria/espiria-ebnf.typ/stargazers)
+[![ebnf's Stars](https://img.shields.io/github/stars/espiria/espiria-ebnf.typ)](https://github.com/espiria/espiria-ebnf.typ/stargazers)
 
 A Typst package for rendering Extended Backus-Naur Form (EBNF) grammars. Faithful to the ISO 14977 (PDF) standard, albeit with a few judicious departures where deemed necessary.
 
