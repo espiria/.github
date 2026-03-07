@@ -1,4 +1,4 @@
-# Espiria Studios
+# Espiria
 
 ![Hero Image](assets/hero-2.webp)
 
