@@ -16,4 +16,4 @@ A Typst package for rendering Extended Backus-Naur Form (EBNF) grammars. Faithfu
 
 ## Around the Web
 
-- <a rel="me" href="https://mastodon.social/@behrangsa">🌐 Mastodon</a>
+<a rel="me" href="https://mastodon.social/@behrangsa" style="display:none">Mastodon</a>
