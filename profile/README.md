@@ -14,6 +14,6 @@ Ultra-fast Rust-based git hooks manager.
 
 A Typst package for rendering Extended Backus-Naur Form (EBNF) grammars. Faithful to the ISO 14977 (PDF) standard, albeit with a few judicious departures where deemed necessary.
 
-## Around the Web
-
+<!--
 <a rel="me" href="https://mastodon.social/@behrangsa" style="display:none">Mastodon</a>
+-->
